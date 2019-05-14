@@ -6,3 +6,6 @@
 	path = CodeTest
 	url = https://github.com/Sangjun1/CodeTest.git
 	branch = master
+[submodule "helloReact"]
+	path = helloReact
+	url = https://github.com/Sangjun1/helloReact.git
